@@ -11767,3 +11767,14 @@ ValueError: Target scores need to be probabilities for multiclass roc_auc, i.e. 
 2024-12-03 19:30:35,687:INFO:Checking exceptions
 2024-12-03 19:30:35,687:INFO:Preloading libraries
 2024-12-03 19:30:35,690:INFO:Set up data.
+2024-12-04 01:19:03,823:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-04 01:19:03,824:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-04 01:19:03,824:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-04 01:19:03,824:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-04 01:21:18,055:WARNING:c:\Python3\Lib\site-packages\keras\src\layers\core\embedding.py:90: UserWarning: Argument `input_length` is deprecated. Just remove it.
+  warnings.warn(
+
