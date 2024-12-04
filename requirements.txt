@@ -3,3 +3,6 @@ numpy
 matplotlib
 nltk
 Sastrawi
+pycaret
+scikit-learn
+tensorflow
